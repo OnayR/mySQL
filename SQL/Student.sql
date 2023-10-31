@@ -1,0 +1,2 @@
+INSERT INTO student (studentnr, roepnaam, voorletters, tussenvoegsels, achternaam, adres, postcode, woonplaats, geslacht, telefoon, geboortedatum, uitgeschreven, schoolgeld, betaald)
+VALUES (3232, "Annemieke", "A.", "de", "Groot", "Janstraat", "1533 JJ", "Zeewolde", "V", 0368912765, "1995-10-03", "0000-00-00", 500.00, 500.00);
